@@ -1,0 +1,2 @@
+# ResoluteAI
+Assingment
